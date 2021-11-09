@@ -1,0 +1,20 @@
+{
+    "tanggal":"23/11/2020",
+    "id":"202011250001",
+    "noRawat":"201100344",
+    "nama":"Samir",
+    "namaKamar":"Multazam",
+    "noKamar":"4",
+    "pesanan":[{
+        "namaMenu":"Jus Strawberry",
+        "qty":5,
+        "harga":"Rp 12.000",
+        "hargaTotal":"Rp 60.000"
+    },{
+        "namaMenu":"Spagheti Saos Bolognaise",
+        "qty":"2",
+        "harga":"Rp 25.000",
+        "hargaTotal":"Rp 50.000"
+    }],
+    "tarifTotal":"Rp 30000"
+}

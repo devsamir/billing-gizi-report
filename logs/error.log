@@ -1,0 +1,84 @@
+2020-11-23T07:05:37.976Z - error: Error during processing request at http://localhost:7000/api/validate-import?fullImport=false&targetFolder=51WrtWT, details: Error: end of central directory record signature not found
+    at E:\PROGRAMING\RS\Gizi Billing\report\node_modules\yauzl\index.js:187:14
+    at E:\PROGRAMING\RS\Gizi Billing\report\node_modules\yauzl\index.js:631:5
+    at E:\PROGRAMING\RS\Gizi Billing\report\node_modules\fd-slicer\index.js:32:7
+    at FSReqCallback.wrapper [as oncomplete] (fs.js:539:5)
+2020-11-23T07:05:53.017Z - error: Error during processing request at http://localhost:7000/api/validate-import?fullImport=true&targetFolder=51WrtWT, details: Error: end of central directory record signature not found
+    at E:\PROGRAMING\RS\Gizi Billing\report\node_modules\yauzl\index.js:187:14
+    at E:\PROGRAMING\RS\Gizi Billing\report\node_modules\yauzl\index.js:631:5
+    at E:\PROGRAMING\RS\Gizi Billing\report\node_modules\fd-slicer\index.js:32:7
+    at FSReqCallback.wrapper [as oncomplete] (fs.js:539:5)
+2020-11-23T07:06:06.399Z - error: Error during processing request at http://localhost:7000/api/validate-import?fullImport=false&targetFolder=51WrtWT, details: Error: end of central directory record signature not found
+    at E:\PROGRAMING\RS\Gizi Billing\report\node_modules\yauzl\index.js:187:14
+    at E:\PROGRAMING\RS\Gizi Billing\report\node_modules\yauzl\index.js:631:5
+    at E:\PROGRAMING\RS\Gizi Billing\report\node_modules\fd-slicer\index.js:32:7
+    at FSReqCallback.wrapper [as oncomplete] (fs.js:539:5)
+2020-11-24T01:37:04.020Z - error: Rendering request 134 finished with error in 12 ms
+2020-11-24T01:37:04.021Z - error: Error when processing render request 134 Asset sikod.png not found in the store and also not on the disk: Unable to find or read file E:\PROGRAMING\RS\Gizi Billing\report\sikod.png. ENOENT: no such file or directory, open 'E:\PROGRAMING\RS\Gizi Billing\report\sikod.png' Error: Asset sikod.png not found in the store and also not on the disk: Unable to find or read file E:\PROGRAMING\RS\Gizi Billing\report\sikod.png. ENOENT: no such file or directory, open 'E:\PROGRAMING\RS\Gizi Billing\report\sikod.png'
+    at readAsset (E:\PROGRAMING\RS\Gizi Billing\report\node_modules\jsreport-assets\lib\assets.js:232:15)
+2020-11-24T01:37:04.022Z - error: Error during processing request at http://localhost:7000/api/report
+2020-11-24T01:37:37.177Z - error: Rendering request 135 finished with error in 6 ms
+2020-11-24T01:37:37.178Z - error: Error when processing render request 135 Asset sikod.png not found in the store and also not on the disk: Unable to find or read file E:\PROGRAMING\RS\Gizi Billing\report\sikod.png. ENOENT: no such file or directory, open 'E:\PROGRAMING\RS\Gizi Billing\report\sikod.png' Error: Asset sikod.png not found in the store and also not on the disk: Unable to find or read file E:\PROGRAMING\RS\Gizi Billing\report\sikod.png. ENOENT: no such file or directory, open 'E:\PROGRAMING\RS\Gizi Billing\report\sikod.png'
+    at readAsset (E:\PROGRAMING\RS\Gizi Billing\report\node_modules\jsreport-assets\lib\assets.js:232:15)
+2020-11-24T01:37:37.179Z - error: Error during processing request at http://localhost:7000/api/report
+2020-11-24T01:37:46.673Z - error: Rendering request 136 finished with error in 10 ms
+2020-11-24T01:37:46.674Z - error: Error when processing render request 136 Asset sikod.png not found in the store and also not on the disk: Unable to find or read file E:\PROGRAMING\RS\Gizi Billing\report\sikod.png. ENOENT: no such file or directory, open 'E:\PROGRAMING\RS\Gizi Billing\report\sikod.png' Error: Asset sikod.png not found in the store and also not on the disk: Unable to find or read file E:\PROGRAMING\RS\Gizi Billing\report\sikod.png. ENOENT: no such file or directory, open 'E:\PROGRAMING\RS\Gizi Billing\report\sikod.png'
+    at readAsset (E:\PROGRAMING\RS\Gizi Billing\report\node_modules\jsreport-assets\lib\assets.js:232:15)
+2020-11-24T01:37:46.675Z - error: Error during processing request at http://localhost:7000/api/report
+2020-11-24T01:38:22.996Z - error: Rendering request 137 finished with error in 6 ms
+2020-11-24T01:38:22.998Z - error: Error when processing render request 137 Asset sikod.png not found in the store and also not on the disk: Unable to find or read file E:\PROGRAMING\RS\Gizi Billing\report\sikod.png. ENOENT: no such file or directory, open 'E:\PROGRAMING\RS\Gizi Billing\report\sikod.png' Error: Asset sikod.png not found in the store and also not on the disk: Unable to find or read file E:\PROGRAMING\RS\Gizi Billing\report\sikod.png. ENOENT: no such file or directory, open 'E:\PROGRAMING\RS\Gizi Billing\report\sikod.png'
+    at readAsset (E:\PROGRAMING\RS\Gizi Billing\report\node_modules\jsreport-assets\lib\assets.js:232:15)
+2020-11-24T01:38:22.999Z - error: Error during processing request at http://localhost:7000/api/report
+2020-11-24T01:43:56.874Z - error: Rendering request 138 finished with error in 11 ms
+2020-11-24T01:43:56.875Z - error: Error when processing render request 138 Asset sikod.png not found in the store and also not on the disk: Unable to find or read file E:\PROGRAMING\RS\Gizi Billing\report\sikod.png. ENOENT: no such file or directory, open 'E:\PROGRAMING\RS\Gizi Billing\report\sikod.png' Error: Asset sikod.png not found in the store and also not on the disk: Unable to find or read file E:\PROGRAMING\RS\Gizi Billing\report\sikod.png. ENOENT: no such file or directory, open 'E:\PROGRAMING\RS\Gizi Billing\report\sikod.png'
+    at readAsset (E:\PROGRAMING\RS\Gizi Billing\report\node_modules\jsreport-assets\lib\assets.js:232:15)
+2020-11-24T01:43:56.875Z - error: Error during processing request at http://localhost:7000/api/report
+2020-11-24T01:44:17.152Z - error: Rendering request 139 finished with error in 23 ms
+2020-11-24T01:44:17.153Z - error: Error when processing render request 139 Asset sikod.png not found in the store and also not on the disk: Unable to find or read file E:\PROGRAMING\RS\Gizi Billing\report\sikod.png. ENOENT: no such file or directory, open 'E:\PROGRAMING\RS\Gizi Billing\report\sikod.png' Error: Asset sikod.png not found in the store and also not on the disk: Unable to find or read file E:\PROGRAMING\RS\Gizi Billing\report\sikod.png. ENOENT: no such file or directory, open 'E:\PROGRAMING\RS\Gizi Billing\report\sikod.png'
+    at readAsset (E:\PROGRAMING\RS\Gizi Billing\report\node_modules\jsreport-assets\lib\assets.js:232:15)
+2020-11-24T01:44:17.154Z - error: Error during processing request at http://localhost:7000/api/report
+2020-11-25T02:37:33.420Z - error: Error during processing request at http://localhost:7000/api/report/billing-main, details: SyntaxError: Unexpected token { in JSON at position 380
+    at JSON.parse (<anonymous>)
+    at normalizeJSONData (E:\PROGRAMING\RS\Gizi Billing\report\node_modules\jsreport-core\lib\render\request.js:48:17)
+    at module.exports (E:\PROGRAMING\RS\Gizi Billing\report\node_modules\jsreport-core\lib\render\request.js:31:23)
+    at module.exports (E:\PROGRAMING\RS\Gizi Billing\report\node_modules\jsreport-core\lib\render\render.js:115:19)
+    at Reporter.render (E:\PROGRAMING\RS\Gizi Billing\report\node_modules\jsreport-core\lib\reporter.js:324:12)
+    at Object.reporter.express.render (E:\PROGRAMING\RS\Gizi Billing\report\node_modules\jsreport-express\lib\routes.js:42:14)
+    at E:\PROGRAMING\RS\Gizi Billing\report\node_modules\jsreport-express\lib\routes.js:75:22
+    at Layer.handle [as handle_request] (E:\PROGRAMING\RS\Gizi Billing\report\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\PROGRAMING\RS\Gizi Billing\report\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (E:\PROGRAMING\RS\Gizi Billing\report\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (E:\PROGRAMING\RS\Gizi Billing\report\node_modules\express\lib\router\layer.js:95:5)
+    at E:\PROGRAMING\RS\Gizi Billing\report\node_modules\express\lib\router\index.js:281:22
+    at param (E:\PROGRAMING\RS\Gizi Billing\report\node_modules\express\lib\router\index.js:354:14)
+    at param (E:\PROGRAMING\RS\Gizi Billing\report\node_modules\express\lib\router\index.js:365:14)
+    at Function.process_params (E:\PROGRAMING\RS\Gizi Billing\report\node_modules\express\lib\router\index.js:410:3)
+    at next (E:\PROGRAMING\RS\Gizi Billing\report\node_modules\express\lib\router\index.js:275:10)
+    at E:\PROGRAMING\RS\Gizi Billing\report\node_modules\jsreport-express\lib\routes.js:17:5
+    at Layer.handle [as handle_request] (E:\PROGRAMING\RS\Gizi Billing\report\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\PROGRAMING\RS\Gizi Billing\report\node_modules\express\lib\router\index.js:317:13)
+    at E:\PROGRAMING\RS\Gizi Billing\report\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (E:\PROGRAMING\RS\Gizi Billing\report\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\PROGRAMING\RS\Gizi Billing\report\node_modules\express\lib\router\index.js:275:10)
+    at E:\PROGRAMING\RS\Gizi Billing\report\node_modules\jsreport-studio\lib\studio.js:85:7
+    at Layer.handle [as handle_request] (E:\PROGRAMING\RS\Gizi Billing\report\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\PROGRAMING\RS\Gizi Billing\report\node_modules\express\lib\router\index.js:317:13)
+    at E:\PROGRAMING\RS\Gizi Billing\report\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (E:\PROGRAMING\RS\Gizi Billing\report\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\PROGRAMING\RS\Gizi Billing\report\node_modules\express\lib\router\index.js:275:10)
+    at E:\PROGRAMING\RS\Gizi Billing\report\node_modules\jsreport-express\lib\reporter.express.js:188:5
+    at Layer.handle [as handle_request] (E:\PROGRAMING\RS\Gizi Billing\report\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\PROGRAMING\RS\Gizi Billing\report\node_modules\express\lib\router\index.js:317:13)
+    at E:\PROGRAMING\RS\Gizi Billing\report\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (E:\PROGRAMING\RS\Gizi Billing\report\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\PROGRAMING\RS\Gizi Billing\report\node_modules\express\lib\router\index.js:275:10)
+    at cors (E:\PROGRAMING\RS\Gizi Billing\report\node_modules\cors\lib\index.js:188:7)
+    at E:\PROGRAMING\RS\Gizi Billing\report\node_modules\cors\lib\index.js:224:17
+    at originCallback (E:\PROGRAMING\RS\Gizi Billing\report\node_modules\cors\lib\index.js:214:15)
+    at E:\PROGRAMING\RS\Gizi Billing\report\node_modules\cors\lib\index.js:219:13
+    at optionsCallback (E:\PROGRAMING\RS\Gizi Billing\report\node_modules\cors\lib\index.js:199:9)
+    at corsMiddleware (E:\PROGRAMING\RS\Gizi Billing\report\node_modules\cors\lib\index.js:204:7)
+2020-12-02T03:02:40.513Z - error: Error when processing OData PATCH: /odata/assets(B06BsYbitcM8GFKk) Error: Entity (_id: B06BsYbitcM8GFKk) was modified previously by another source
+    at module.exports (E:\PROGRAMING\RS\Gizi Billing\report\node_modules\jsreport-core\lib\util\createError.js:11:13)
+    at Reporter.createError (E:\PROGRAMING\RS\Gizi Billing\report\node_modules\jsreport-core\lib\reporter.js:332:12)
+    at AsyncFunction.<anonymous> (E:\PROGRAMING\RS\Gizi Billing\report\node_modules\jsreport-studio\lib\studio.js:468:30)

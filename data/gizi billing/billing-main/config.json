@@ -1,0 +1,24 @@
+{
+    "shortid": "XhI2-EVGEH",
+    "name": "billing-main",
+    "recipe": "chrome-pdf",
+    "engine": "handlebars",
+    "chrome": {
+        "printBackground": true,
+        "width": "11cm",
+        "height": "11cm",
+        "marginTop": "",
+        "marginRight": "1cm"
+    },
+    "creationDate": {
+        "$$date": 1606114964522
+    },
+    "modificationDate": {
+        "$$date": 1606878281021
+    },
+    "_id": "q2hSTSGv5HIIQlYO",
+    "$entitySet": "templates",
+    "data": {
+        "shortid": "xfj7vMiE15"
+    }
+}

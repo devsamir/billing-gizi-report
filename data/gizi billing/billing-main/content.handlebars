@@ -1,0 +1,67 @@
+<html>
+   <head>
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <style>
+            {#asset billing-main.css @encoding=utf8}
+        </style>
+        <body>
+            <div class="container">
+                <div class="body">
+                    <table class="table-header">
+                        <tr>
+                            <td>Tanggal</td>
+                            <td>:</td>
+                            <td>{{tanggal}}</td>
+                        </tr>
+                        <tr>
+                            <td>Kode</td>
+                            <td>:</td>
+                            <td>{{id}}</td>
+                        </tr>
+                        <tr>
+                            <td>Nomor Rawat</td>
+                            <td>:</td>
+                            <td>{{noRawat}}</td>
+                        </tr>
+                        <tr>
+                            <td>Nama Pasien</td>
+                            <td>:</td>
+                            <td>{{nama}}</td>
+                        </tr>
+                        <tr>
+                            <td>Nama Kamar</td>
+                            <td>:</td>
+                            <td>{{namaKamar}}</td>
+                        </tr>
+                        <tr>
+                            <td>Nomor Kamar</td>
+                            <td>:</td>
+                            <td>{{noKamar}}</td>
+                        </tr>
+                    </table>
+                    <table class="table-pesanan">
+                        <tr>
+                            <th>Menu</th>
+                            <th>Harga</th>
+                            <th>Qty</th>
+                            <th>Total</th>
+                        </tr>
+                        {{#each pesanan}}
+                        <tr>
+                            <td class="namamenu">{{namaMenu}}</td>
+                            <td>{{harga}}</td>
+                            <td>{{qty}}</td>
+                            <td>{{hargaTotal}}</td>
+                        </tr>
+                        {{/each}}
+                        <tr>
+                            <th colspan="3">Total</th>
+                            <td>{{tarifTotal}}</td>
+                        </tr>
+                    </table>
+                </div>
+
+            </div>
+        </body>
+    </head> 
+</html>
